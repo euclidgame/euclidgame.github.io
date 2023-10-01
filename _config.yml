@@ -19,7 +19,7 @@ image: #/assets/img/dumbarton.png               # used to generate site link pre
 # -----------SITE SETTINGS---------------#
 #========================================#: 
 author: Wenjie Ma
-profile_image: /assets/img/avatar/avatar.JPG #/assets/img/avatar/avatar.jpeg 
+profile_image: assets/img/avatar/avatar.jpg #/assets/img/avatar/avatar.jpeg 
 occupation: 
 snippet:
 twitter: WenjieMa2002
