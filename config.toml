@@ -1,7 +1,7 @@
 # Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
 # and drop a star while you're at it. ;)
 baseurl = "https://euclidgame.github.io/"
-title = "Jane Doe"
+title = "Wenjie Ma"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 #disqusShortname = "" # Enable comments by entering your Disqus shortname
@@ -33,10 +33,10 @@ metaDataFormat= "yaml"
   copyright = "© 2023 Wenjie Ma."
   name = "wenjie_ma"
   img = "image/avatar.jpg"
-  img_title = "Memory Garden"
+  img_title = "I chose this photo to match the greenish vibe of this theme :-)"
   icon = "image/avatar.jpg"
   quote = "You gotta step into the daylight and let it go."
-  description= "I am a visiting scholar at UIUC, working with Prof. <a href=\"https://tianyin.github.io\">Tianyin Xu</a>."
+  description= "I am a visiting scholar at UIUC, working with Prof. <a href=\"https://tianyin.github.io\">Tianyin Xu</a>. Rather than confining myself to a specific area, I have this research vision: I enjoy creating <i>general</i> and <i>rigorous</i> abstractions for programs and exploring their applications in complex modern software systems. I believe that leveraging these abstractions holds great potential to develop principled methods for building secure and reliable software systems. For more information, click the \"About\" or check my CV below."
 
  # Social icons
   [[params.social]]
@@ -45,7 +45,7 @@ metaDataFormat= "yaml"
 
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/xiaomama2002"
+    url  = "https://twitter.com/WenjieMa2002"
 
   [[params.social]]
     name = "github"
@@ -53,7 +53,7 @@ metaDataFormat= "yaml"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/wenjie-ma-5b9248268"
 
 [params.style]
   # add path to custom CSS files here
@@ -72,10 +72,15 @@ metaDataFormat= "yaml"
     name       = "Posts"
     url        = "post/"
 
+    [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "contact"
+
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
-    url        = "/"
+    url        = "file/resume.pdf"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
