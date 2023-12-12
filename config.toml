@@ -36,7 +36,7 @@ metaDataFormat= "yaml"
   img_title = "I chose this photo to match the greenish vibe of this theme :-)"
   icon = "image/avatar.jpg"
   quote = "You gotta step into the daylight and let it go."
-  description= "I am a visiting scholar at UIUC, working with Prof. <a href=\"https://tianyin.github.io\">Tianyin Xu</a>. Rather than confining myself to a specific area, I have this research vision: I enjoy creating <i>general</i> and <i>rigorous</i> abstractions for programs and exploring their applications in complex modern software systems. I believe that leveraging these abstractions holds great potential to develop principled methods for building secure and reliable software systems. For more information, click the \"About\" or check my CV below."
+  description= "I am a visiting scholar at UIUC, working with Prof. <a href=\"https://tianyin.github.io\">Tianyin Xu</a>. Rather than confining myself to a specific area, I have this research vision: I enjoy creating <i>general</i> and <i>rigorous</i> abstractions for programs and exploring their applications in complex modern software systems. I believe that leveraging these abstractions holds great potential to develop principled methods for building secure and reliable software systems. For more information, please click the \"About\" or check my CV below."
 
  # Social icons
   [[params.social]]

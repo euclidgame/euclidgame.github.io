@@ -22,14 +22,19 @@ efficiency of traditional pointer analysis.
 
 ### Publications
 1. **Context Sensitivity without Contexts: A Cut-Shortcut Approach to Fast and Precise Pointer Analysis**  
-Wenjie Ma, Shengyuan Yang, Tian Tan, Xiaoxing Ma, Chang Xu, and Yue Li  
+Wenjie Ma, Shengyuan Yang, [Tian Tan](https://silverbullettt.bitbucket.io), 
+[Xiaoxing Ma](https://ics.nju.edu.cn/people/xiaoxingma/), [Chang Xu](https://cs.nju.edu.cn/changxu/index.htm), and [Yue Li](https://yuelee.bitbucket.io)  
 *In Proceedings of the 44th ACM SIGPLAN Conference on Programming Language Design and Implementation* (**PLDI 2023**),
 Orlando, FL, June 2023  
 [[full text](https://dl.acm.org/doi/pdf/10.1145/3591242)][[artifact](https://zenodo.org/record/7808384)]
 [[talk](https://youtu.be/F3z39M0gdJU?t=5773)][[slides](/file/pldi-23.pdf)]
 
 2. **Anvil: Verifying Liveness of Cluster Management Controllers**     
-Xudong Sun, Wenjie Ma, Jiawei Tyler Gu, Zicheng Ma, Tej Chajed, Jon Howell, Andrea Lattuada, Oded Padon, Lalith Suresh, Adriana Szekeres, and Tianyin Xu  
+[Xudong Sun](https://marshtompsxd.github.io/), Wenjie Ma, [Jiawei Tyler Gu](https://tylergu.com/), [Zicheng Ma](https://zichengma.github.io/), 
+[Tej Chajed](https://www.chajed.io/), [Jon Howell](https://research.vmware.com/researchers/jon-howell), 
+[Andrea Lattuada](https://andrea.lattuada.me/), [Oded Padon](https://cs.stanford.edu/~padon/), 
+[Lalith Suresh](https://lalith.in/about/), [Adriana Szekeres](https://research.vmware.com/researchers/adriana-szekeres), and 
+[Tianyin Xu](https://tianyin.github.io)  
 *In submission to the 18th USENIX Symposium on Operating Systems Design and Implementation* (**OSDI 2024**)  
 [[repo](https://github.com/vmware-research/verifiable-controllers)]
 
@@ -42,9 +47,10 @@ Xudong Sun, Wenjie Ma, Jiawei Tyler Gu, Zicheng Ma, Tej Chajed, Jon Howell, Andr
     - The [programming assignments](https://oj.pascal-lab.net/problem) have been registered by students from 140+ universities all over the world.
 
 ### Personal
-I like bakery, reading, pilates and flower arrangement if I want to stay calm. Otherwise, I would like to go boxing, singing
+I like bakery, reading, pilates[^2] and flower arrangement if I want to stay calm. Otherwise, I would like to go boxing, singing
 and dancing.
 
 My friends call me a "*food researcher*".  
 
 [^1]:Learnt from [Shriram Krishnamurthi](https://cs.brown.edu/~sk/).
+[^2]:Thanks to Yu for taking this [photo](/image/pilates.jpg) for me.
