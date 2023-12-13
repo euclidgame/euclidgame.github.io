@@ -4,7 +4,7 @@ button: 'About us'
 weight: 2
 ---
 
-I am a visiting scholar at UIUC, working with Prof. [Tianyin Xu](https://euclidgame.github.io). 
+I am a visiting scholar at UIUC, working with Prof. [Tianyin Xu](https://euclidgame.github.io). I have recently got my Bachelor's degree in Computer Science (top 0.5\%) from [Nanjing University](https://www.nju.edu.cn/en/About/Message_from_the_Leadership.htm).
 
 Rather than confining myself to a specific area, I have this research vision[^1]: I enjoy creating *general*
 and *rigorous* abstractions for programs--they are beautiful, and exploring their applications in *complex* modern software systems. I believe that
@@ -14,9 +14,9 @@ That said, I am simple and complicated, imaginative and practical at the same ti
 Over the past two years, I have done some work at the intersection of **programming languages** (PL) and **software systems**,
 especially formal verification of distributed systems and static analysis of large-scale programs. 
 
-I got my Bachelor's degree in Computer Science (top 0.5\%) from [Nanjing University](https://www.nju.edu.cn/en/About/Message_from_the_Leadership.htm) in June 2023. As an undergraduate, I conducted research with Prof. 
+<!-- I got my Bachelor's degree in Computer Science (top 0.5\%) from [Nanjing University](https://www.nju.edu.cn/en/About/Message_from_the_Leadership.htm) in June 2023. As an undergraduate, I conducted research with Prof. 
 [Yue Li](https://yuelee.bitbucket.io) and Prof. [Tian Tan](https://silverbullettt.bitbucket.io) on improving the precision and
-efficiency of traditional pointer analysis.
+efficiency of traditional pointer analysis. -->
 
 ---
 
@@ -35,7 +35,7 @@ Orlando, FL, June 2023
 [Andrea Lattuada](https://andrea.lattuada.me/), [Oded Padon](https://cs.stanford.edu/~padon/), 
 [Lalith Suresh](https://lalith.in/about/), [Adriana Szekeres](https://research.vmware.com/researchers/adriana-szekeres), and 
 [Tianyin Xu](https://tianyin.github.io)  
-*In submission to the 18th USENIX Symposium on Operating Systems Design and Implementation* (**OSDI 2024**)  
+*In Submission to the 18th USENIX Symposium on Operating Systems Design and Implementation* (**OSDI 2024**)  
 [[repo](https://github.com/vmware-research/verifiable-controllers)]
 
 ### Talks
